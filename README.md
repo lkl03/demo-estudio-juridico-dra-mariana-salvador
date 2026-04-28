@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-mariana-salvador
-Demo web para Estudio Jurídico Dra. Mariana Salvador — diseñada por eterlab.
+# Estudio Jurídico Dra. Mariana Salvador
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
